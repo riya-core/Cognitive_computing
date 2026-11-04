@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>4_jpg.rf.e02efe84af9981a60707688c9f40ec50.jpg</filename>
+	<path>4_jpg.rf.e02efe84af9981a60707688c9f40ec50.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medicine-name</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>289</xmax>
+			<ymin>180</ymin>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
